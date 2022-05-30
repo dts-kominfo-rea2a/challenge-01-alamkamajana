@@ -20,7 +20,7 @@ const firstUser = {
         name : "SMA 03",
         city : "Tangerang"
     }],
-    favoriteRestaurant : ["Bento","Sushi","Pancake","Eggy","Tempura","Padang"]
+    favoriteRestaurant : ["Bento","Sushi","Pancake","Eggy","Tempura","Padang","Padang"]
 };
 const secondUser = {
     name : "Wendy",
@@ -41,7 +41,7 @@ const secondUser = {
         name : "Universitas Maju",
         city : "Tangerang"
     }],
-    favoriteRestaurant : ["Bakso","Sushi","Pancake","Eggy","Tempura","Padang"]
+    favoriteRestaurant : ["Bakso","Sushi","Pancake","Eggy","Tempura","Padang","padang","Padan"]
 };
 
 
